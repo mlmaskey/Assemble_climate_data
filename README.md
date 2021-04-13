@@ -1,4 +1,4 @@
-# Assembeling Climate data in time scale and perform spatial interpolation using ordinary kriging
+# Assembling Climate data in time scale and perform spatial interpolation using ordinary kriging
 
 ## Steps
 - Gathering the data
