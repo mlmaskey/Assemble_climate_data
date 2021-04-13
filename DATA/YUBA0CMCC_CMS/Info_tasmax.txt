@@ -1,0 +1,6 @@
+Period: 1950Jan through 2099Dec
+Latitude bounds: (39.1875, 39.25)
+Longitude bounds: (238.5625, 238.625)
+
+Rows: [54787] time
+Cols: [2] projection
